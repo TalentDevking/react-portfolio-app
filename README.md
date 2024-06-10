@@ -47,9 +47,3 @@ The application will be deployed to GitHub Pages.
 [License: MIT](https://opensource.org/licenses/MIT)
 
 # This Project is licensed under the MIT license
-
-## Questions:
-
-- **Contact details:**
-  - Github: [@pfansi](https://github.com/pfansi)
-  - Email: 
